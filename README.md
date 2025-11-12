@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawscloud" alt="zawscloud" /></a> </p>
 
-- 🔭 I’m currently working on **Terraform and Gitlab CI/CD Projects**
+- 🔭 I’m currently working on **Kubernetes (EKS, AKS), Terraform and Gitlab CI/CD Projects**
 
-- 🌱 I’m currently learning **Kubernetes and Python**
+- 🌱 I’m currently learning **Python and AI **
 
 - 👯 I’m looking to collaborate on **Terraform, CI/CD, and DevOps Projects**
 
